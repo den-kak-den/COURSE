@@ -15,4 +15,17 @@
 
 # print(id(b))        #А вот сейчас адрес переменной Б изменился
 
+int = 5
+float = 5.1
+str = 'fmr4o3fowpffm'
+str3 = '''jsa99sd0k'''
+bool_T = True
+bool_F = False
+
+print(int, ' - ', type(int))
+print(float, ' - ', type(float))
+print(str, ' - ', type(str))
+print(str3, ' - ', type(str3))
+print(bool_T, ' - ', type(bool_T))
+print(bool_F, ' - ', type(bool_F))
 
