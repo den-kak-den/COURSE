@@ -92,3 +92,20 @@
 
 # ERROR !
 
+#####################################################
+
+# OUTPUT FORMATTING
+
+# str1 = 'first'
+# str2 = 'second'
+
+# # print(str1, str2, sep='\n')
+
+# # first
+# # second
+
+# print(str1, end=' new output ending ')
+# print(str2)
+
+# first new output ending second
+
