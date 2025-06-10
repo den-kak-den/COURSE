@@ -96,16 +96,20 @@
 
 # OUTPUT FORMATTING
 
-# str1 = 'first'
-# str2 = 'second'
+str1 = 'first'
+str2 = 'second'
 
-# # print(str1, str2, sep='\n')
+# print(str1, str2, sep='\n')
 
 # # first
 # # second
 
-# print(str1, end=' new output ending ')
-# print(str2)
+print(str1, '324923749', end=' new output ending ')
+print(str2, '2143213123')
+print('12412342')
 
-# first new output ending second
+# first 324923749 new output ending second 2143213123
+# 12412342
+
+#####################################################
 
