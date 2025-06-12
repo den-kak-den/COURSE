@@ -92,3 +92,34 @@
 
 # ERROR !
 
+#####################################################
+
+# OUTPUT FORMATTING
+
+# str1 = 'first'
+# str2 = 'second'
+
+# # print(str1, str2, sep='\n')
+
+# # # first
+# # # second
+
+# print(str1, '324923749', end=' new output ending ')
+# print(str2, '2143213123')
+# print('12412342')
+
+# first 324923749 new output ending second 2143213123
+# 12412342
+
+#####################################################
+
+# import math  #import all lib with all methods
+
+# s = math.radians(x) # call to method
+
+# from random import randint, uniform # import only some methods from lib.
+
+# s = randint(x) # call to method
+
+
+
