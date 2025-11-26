@@ -113,3 +113,8 @@
 # restart after long time out (november 2025)
 
 # git process checking
+
+# str = "restart"
+# print(str[0:2] + '\n' + str[2:7])
+
+
