@@ -140,6 +140,18 @@
 
 ####################################################
 
-#9.
+#9. CALCULATE SUM OF DIGITS USER'S 3-DIGITS NUMBER
+
+# str_num = input("Input 3-digits number: ") # MORE ATTENTION WITH DATA TYPES !
+
+# print(f"number is {str_num}, sum is {int(str_num[0]) + int(str_num[1]) + int(str_num[2])}")
+
+# Input 3-digits number: 123
+# number is 123, sum is 6
+
+##################################################
+
+#10.
+
 
 
